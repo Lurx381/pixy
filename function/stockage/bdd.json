@@ -1,0 +1,31 @@
+{
+    "stats": [
+        "in dev",
+        "!warn",
+        "!song",
+        "!clear",
+        "!stats",
+        "!ban"
+    ],
+    "warn": {
+        "328734492523102218": 1,
+        "547905866255433758": 1,
+        "1023910761317285928": 1
+    },
+    "coins-utilisateurs": {
+        "328734492523102218": 1
+    },
+    "level-utilisateurs": {
+        "328734492523102218": 0
+    },
+    "message-bienvenue": "Welcome to the discord! 🙂",
+    "statut-level": false,
+    "699308964575314041": {
+        "prefix": "/",
+        "test": "test"
+    },
+    "channel-events": "",
+    "participants-event-1k": [],
+    "message-event-1k": "",
+    "671441556988756010": {}
+}
